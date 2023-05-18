@@ -1,4 +1,3 @@
-# Convert language to Vietnamese (https://github.com/vuvoth/Dapp-Learning/blob/51407f0542ab94bccb4e41b286ac778dcb1a489e/basic/01-web3js-deploy/README.md)
 # Abtract
 Thông qua những task cơ bản, bạn có thể học được những kiến thức liên quan đến trình biên dịch và quy trình triển khai một Smart Contract, cũng như sử dụng các API cơ bản của `web3js`.
 # Chuẩn bị
@@ -11,7 +10,7 @@ Thông qua những task cơ bản, bạn có thể học được những kiến
  3. Nạp tiền vào tài khoản thông qua  [faucets](https://faucets.chain.link) hoặc các web dịch vụ khác;
  4. Sau vài phút có thể kiểm tra số dư trên `MetaMask`
 
-- Tạo một file `.env` và thêm các dòng sau:
+- Tạo file `.env` và thêm các dòng sau:
   
     PRIVATE_KEY=YOUR_PRIVATE_KEY
     INFURA_ID=YOUR_PROJECT_ID
